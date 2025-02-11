@@ -4,7 +4,7 @@ Hello world,this is my profile
 
 ###
 
-<p align="left">My name is Sai Nithin D  and I'm a Ongoing MCA Graduate, from Presidency University.</p>
+<p align="left">My name is Sai Nithin D  and I'm an Ongoing MCA Graduate, from Presidency University.</p>
 
 ###
 
